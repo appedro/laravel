@@ -31,7 +31,7 @@ Abaixo estão listadas as rotas e suas funções. Caso prefira rode o comando:
 ```
 php artisan route:list
 ```
-servidorlocal/user/create - Formulário de cadastro
-servidorlocal/user/{id}/edit - Formulário de atualização de dados
-servidorlocal/api/user/{id} - API que retorna o usuário
-servidorlocal/user/{id} - Tabela com os dados do usuário
+- servidorlocal/user/create - Formulário de cadastro
+- servidorlocal/user/{id}/edit - Formulário de atualização de dados
+- servidorlocal/api/user/{id} - API que retorna o usuário
+- servidorlocal/user/{id} - Tabela com os dados do usuário
